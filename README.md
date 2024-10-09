@@ -1,2 +1,2 @@
-Assignemt 2
+Assignment 2
 single web page
