@@ -1,0 +1,42 @@
+.container {
+    display: flex; 
+    background-color: lightgray;
+    margin: 40px 0px 20px 0px;
+}
+
+.image-section {
+    object-fit: contain;
+    flex: 1; 
+    padding: 40px 30px 30px 100px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.text-section {
+    flex: 1; 
+    margin-top: 10px;
+    padding: 20px 90px 100px 30px;
+    display: flex; 
+    flex-direction:column; 
+    font-family: sans-serif;
+}
+
+.description {
+   font-family:Arial, Helvetica, sans-serif; 
+   padding-left: 450px;
+   padding-right: 450px;
+}
+
+.highlight{
+    color:brown;
+}
+
+.image-container {
+    text-align: center;          
+}
+
+.image-container img {
+    max-width: 100%;            
+    height: 500px;
+}
+
